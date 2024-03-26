@@ -1,23 +1,23 @@
 <div align="center">
   <picture>
-    <source height=200
+    <source height=150
       srcset="https://github-readme-stats.vercel.app/api?username=FlavioMoreir4&include_all_commits=true&locale=pt-br&show_icons=true&theme=github_dark&hide=contribs,prs"
       media="(prefers-color-scheme: dark)" />
-    <source height=200
+    <source height=150
       srcset="https://github-readme-stats.vercel.app/api?username=FlavioMoreir4&include_all_commits=true&locale=pt-br&show_icons=true&hide=contribs,prs"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img height=200
+    <img height=150
       src="https://github-readme-stats.vercel.app/api?username=FlavioMoreir4&include_all_commits=true&locale=pt-br&show_icons=true&hide=contribs,prs" />
   </picture>
   <!-- Most Used Languages -->
   <picture>
-    <source height=200
+    <source height=150
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Flaviomoreir4&layout=compact&langs_count=6&theme=github_dark&locale=pt-br"
       media="(prefers-color-scheme: dark)" />
-    <source height=200
+    <source height=150
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Flaviomoreir4&layout=compact&langs_count=6&locale=pt-br"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img height=200
+    <img height=150
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flaviomoreir4&layout=compact&langs_count=6&locale=pt-br" />
   </picture>
   <!-- WakaTime -->
@@ -80,7 +80,6 @@
       alt="Apache">
   </a>
 </div>
-
 
 <hr>
 
