@@ -37,7 +37,7 @@
 
 <hr>
 
-<div> 
+<div style="text-align: center;"> 
     <a href="https://www.instagram.com/flaviomoreir4/" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
@@ -53,6 +53,4 @@
     <a href="mailto:flavio.moreira@mktcode.digital">
         <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
- 
-  ![Snake animation](https://raw.githubusercontent.com/FlavioMoreir4/FlavioMoreir4/output/github-contribution-grid-snake.svg)
 </div>
