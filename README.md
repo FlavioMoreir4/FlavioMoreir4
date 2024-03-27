@@ -1,13 +1,13 @@
 <div align="center">
   <picture>
     <source height=150
-      srcset="https://github-readme-stats.vercel.app/api?username=FlavioMoreir4&include_all_commits=true&locale=pt-br&show_icons=true&theme=github_dark&hide=contribs,prs"
+      srcset="https://github-readme-stats.vercel.app/api?username=FlavioMoreir4&locale=pt-br&show_icons=true&theme=github_dark&hide=contribs,prs"
       media="(prefers-color-scheme: dark)" />
     <source height=150
-      srcset="https://github-readme-stats.vercel.app/api?username=FlavioMoreir4&include_all_commits=true&locale=pt-br&show_icons=true&hide=contribs,prs"
+      srcset="https://github-readme-stats.vercel.app/api?username=FlavioMoreir4&locale=pt-br&show_icons=true&hide=contribs,prs"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img height=150
-      src="https://github-readme-stats.vercel.app/api?username=FlavioMoreir4&include_all_commits=true&locale=pt-br&show_icons=true&hide=contribs,prs" />
+      src="https://github-readme-stats.vercel.app/api?username=FlavioMoreir4&locale=pt-br&show_icons=true&hide=contribs,prs" />
   </picture>
   <!-- Most Used Languages -->
   <picture>
