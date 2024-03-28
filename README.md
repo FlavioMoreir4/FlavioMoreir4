@@ -26,10 +26,10 @@
       srcset="https://github-readme-stats.vercel.app/api/wakatime?username=FlavioMoreir4&layout=compact&theme=github_dark&locale=pt-br"
       media="(prefers-color-scheme: dark)" />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=FlavioMoreir4&layout=compact&locale=pt-br"
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=FlavioMoreir4&layout=compact&locale=pt-br&cache_seconds=21600"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=FlavioMoreir4&layout=compact&locale=pt-br" />
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=FlavioMoreir4&layout=compact&locale=pt-br&cache_seconds=21600" />
   </picture>
 </div>
 
