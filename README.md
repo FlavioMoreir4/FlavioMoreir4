@@ -1,3 +1,6 @@
+![Metrics](https://metrics.lecoq.io/FlavioMoreir4?template=classic&base.indepth=true&base.hireable=true&repositories.forks=true&habits=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&config.timezone=America%2FSao_Paulo&config.twemoji=true)
+
+
 <div align="center">
   <picture>
     <source height=150
@@ -105,14 +108,3 @@
       target="_blank">
   </a>
 </div>
-<picture>
-  <source
-      srcset="https://wakatime.com/share/@FlavioMoreir4/c20323b7-11b2-4be9-8e2f-4b1835ae3b3d.svg"
-      media="(prefers-color-scheme: dark)" />
-    <source
-      srcset="https://wakatime.com/share/@FlavioMoreir4/c20323b7-11b2-4be9-8e2f-4b1835ae3b3d.svg"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img
-      src="https://wakatime.com/share/@FlavioMoreir4/c20323b7-11b2-4be9-8e2f-4b1835ae3b3d.svg" />
-</picture>
-<figure><embed src="https://wakatime.com/share/@FlavioMoreir4/c20323b7-11b2-4be9-8e2f-4b1835ae3b3d.svg"></embed></figure>
