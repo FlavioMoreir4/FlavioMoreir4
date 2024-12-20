@@ -1,7 +1,4 @@
-# Olá! Eu sou o Flavio Moreira 👋
- [Linkedin][linkedin] - [Instagram][instagram] - [WhatsApp][whatsapp]
-
-## Sobre mim:
+[Linkedin][linkedin] - [Instagram][instagram] - [WhatsApp][whatsapp]
 
 Sou um desenvolvedor full-stack com mais de 8 anos de experiência criando soluções tecnológicas que resolvem problemas reais. Tenho paixão por desenvolver sistemas robustos, escaláveis e eficientes, que impactam diretamente a produtividade e a experiência dos usuários.  
 
